@@ -1,0 +1,10 @@
+===== USER DATA =====
+First Name: Prangya
+Last Name: Patra
+Department: Development
+Email: prangya.patra@development.company.com
+Password: Prangya@123
+Mailbox Capacity: 660MB
+Alternate Email: prangyapatra76@gmail.com
+======================
+
